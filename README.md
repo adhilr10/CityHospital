@@ -10,7 +10,6 @@ City Hospital is a web application developed using the Django framework in Pytho
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Features <a name="features"></a>
 City Hospital offers the following features:
